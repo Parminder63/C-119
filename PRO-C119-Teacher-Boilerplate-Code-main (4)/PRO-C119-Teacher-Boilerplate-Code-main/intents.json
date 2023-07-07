@@ -1,0 +1,15 @@
+{"intents": [
+    {"tag":"greeting", 
+     "patterns": ["Hi!","Hello","Is anyone there?","Hey","Need help"],
+     "responses": ["Hello!","How can I help","Am at your service","Hi there"]
+    },
+    {
+      "tag":"goodbye",
+      "patterns" :["Thank you!","My issue is resolved","Thanks for your help","GoodBye","Bye"],
+      "responses" :["Always at your service","See you! Have a nice day","Bbye","Good Day","Glad to help","Is anything else I can help?"]
+
+    }
+  ]
+}
+
+    
